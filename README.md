@@ -6,7 +6,7 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>"El agricultor que espera el clima perfecto nunca siembra; si contempla cada nube, nunca cosecha."</em>"  
+    <h4 align="center">"<em>El agricultor que espera el clima perfecto nunca siembra; si contempla cada nube, nunca cosecha.</em>"  
       <br>
       <span align="center">Eclesiastés 11:4</span>
     </h4>
@@ -42,6 +42,9 @@
   </a>
   <a href="https://x.com/CtpN3m0" target="blank">
     <img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="X/Twitter" height="40" width="40" />
+  </a>
+  <a href="mailto:CtpN3m0@proton.me" target="blank">
+    <img align="center" src="https://w7.pngwing.com/pngs/152/1013/png-transparent-messaging-appl-logo-email-address-electronic-mailing-list-logo-internet-corrugated-tape.png" alt="Mail" height="40" width="40" />
   </a>
 </p>
 
