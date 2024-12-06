@@ -16,15 +16,16 @@
 <!-- ABOUT ME -->
 <hr>
 <h3 align="center">Acerca de mí</h3>
-<p align="center"> 
-  Soy estudiante de Ingeniería en Computación en el Tecnológico de Costa Rica.  
-  Actualmente estoy en proceso de convertirme en desarrollador Web3 y Blockchain, entusiasta del hacking ético y la ciberseguridad. Además, contribuyo activamente al código abierto Blockchain en <strong>Only Dust</strong>.
+<p align="center">  
+Soy <strong>Saymon Porras Briones</strong>, estudiante de <strong>Ingeniería en Computación</strong> en el <strong>Tecnológico de Costa Rica</strong>. Me apasionan las Tecnologías Emergentes, la Programación y la Ciberseguridad.
 </p>
 
-<ul>
-  <li>🔭 Actualmente trabajando en: proyectos relacionados con Web3 y Blockchain.</li>
-  <li>🌱 Aprendiendo sobre: Aprendiendo Solidity y Cairo para desarrollarme como Web3 y Blockchain Developer, Zero-Knowledge Proofs y Ciberseguridad.</li>
-  <li>📫 Cómo contactarme: <a href="mailto:CtpN3m0@proton.me">CtpN3m0@proton.me</a></li>
+<ul> 
+  <li>🌐 <strong>Contribuidor de Código Abierto</strong> en proyectos de <strong>Web3</strong> y <strong>Blockchain</strong>.</li>
+  <li>💻 En proceso de convertirme en <strong>Desarrollador Blockchain</strong> y <strong>Full Stack Developer</strong>.</li>
+  <li>🔒 Apasionado por la <strong>Ciberseguridad</strong> y el <strong>Hacking Ético</strong>.</li>
+  <li>⛩️ Miembro activo de <strong>Dojo Coding</strong>, contribuyendo a proyectos innovadores en Blockchain.</li>
+  <li>🚀 Siempre en búsqueda de nuevos retos tecnológicos y aprendizaje continuo.</li>
 </ul>
 
 <!-- CONNECTION -->
