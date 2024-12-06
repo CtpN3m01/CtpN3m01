@@ -6,9 +6,9 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"  
+    <h4 align="center">"<em>"El agricultor que espera el clima perfecto nunca siembra; si contempla cada nube, nunca cosecha."</em>"  
       <br>
-      <span align="center">Saymon Porras Briones</span>
+      <span align="center">Eclesiastés 11:4</span>
     </h4>
   </span>
 </span>
