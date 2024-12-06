@@ -35,13 +35,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://app.onlydust.com/u/CtpN3m01" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/63/OnlyDust_Logo.svg" alt="Only Dust" height="30" width="40" />
+    <img align="center" src="https://app.onlydust.com/_next/static/media/onlydust-logo.68e14357.webp" alt="Only Dust" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/ctpn3m0/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://x.com/CtpN3m0" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/X_logo_2023.svg" alt="X/Twitter" height="30" width="40" />
+    <img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="X/Twitter" height="30" width="40" />
   </a>
 </p>
 
@@ -66,7 +66,6 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/database/technologies/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
