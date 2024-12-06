@@ -46,6 +46,9 @@
   <a href="mailto:CtpN3m0@proton.me" target="blank">
     <img align="center" src="https://w7.pngwing.com/pngs/152/1013/png-transparent-messaging-appl-logo-email-address-electronic-mailing-list-logo-internet-corrugated-tape.png" alt="Mail" height="40" width="40" />
   </a>
+  <a href="https://t.me/CtpN3m01" target="blank">
+    <img align="center" src="https://cdn.brandfetch.io/id68S6e-Gp/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Telegram" height="40" width="40" />
+  </a>
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
