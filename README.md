@@ -35,13 +35,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://app.onlydust.com/u/CtpN3m01" target="blank">
-    <img align="center" src="https://app.onlydust.com/_next/static/media/onlydust-logo.68e14357.webp" alt="Only Dust" height="30" width="40" />
+    <img align="center" src="https://app.onlydust.com/_next/static/media/onlydust-logo.68e14357.webp" alt="Only Dust" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/ctpn3m0/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://x.com/CtpN3m0" target="blank">
-    <img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="X/Twitter" height="30" width="40" />
+    <img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="X/Twitter" height="40" width="40" />
   </a>
 </p>
 
