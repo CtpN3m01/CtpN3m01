@@ -92,4 +92,4 @@ Soy <strong>Saymon Porras Briones</strong>, estudiante de <strong>Ingeniería en
 <!-- GITHUB STATS -->
 <hr>
 <h3 align="center">Estadísticas:</h3>
-<p align="center"> <strong>Comming Soon..</strong> </p>
+<p align="center"> <strong>Coming Soon..</strong> </p>
