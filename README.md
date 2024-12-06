@@ -92,7 +92,4 @@ Soy <strong>Saymon Porras Briones</strong>, estudiante de <strong>Ingeniería en
 <!-- GITHUB STATS -->
 <hr>
 <h3 align="center">Estadísticas:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ctpn3m0&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Saymon Porras Briones - Lenguajes más usados"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ctpn3m0&show_icons=true&theme=dark&locale=en" alt="Saymon Porras Briones - Estadísticas de GitHub"/>
-</p>
+<p align="center"> <strong>Comming Soon..</strong> </p>
