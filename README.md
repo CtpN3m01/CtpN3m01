@@ -70,6 +70,10 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/database/technologies/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://www.hackthebox.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/HackTheBox_logo.svg" alt="HackTheBox" width="40" height="40"/> </a>
+  <a href="https://www.kali.org/" target="_blank">
+  <img src="https://www.kali.org/assets/images/logos/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/> </a>
 </p>
 
 <!-- SUPPORT -->
