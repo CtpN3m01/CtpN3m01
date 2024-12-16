@@ -1,5 +1,5 @@
 <!-- HEADER -->
-![Welcome to my profile]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=47F70E&center=true&multiline=true&width=435&height=60&lines=%24%3E%3EWhoami;%24%3E%3ECtpN3m0)](https://git.io/typing-svg)
 
 <hr>
 
