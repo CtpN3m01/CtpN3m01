@@ -1,5 +1,5 @@
 <!-- HEADER -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=47F70E&center=true&multiline=true&width=435&height=60&lines=%24%3E%3EWhoami;%24%3E%3ECtpN3m0)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=47F70E&center=true&multiline=true&width=435&height=60&lines=%24%3E%3EWhoami;%24%3E%3ECtpN3m0" alt="Typing SVG" /></a>
 
 <hr>
 
