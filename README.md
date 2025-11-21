@@ -26,7 +26,6 @@ Soy <strong>Saymon Porras Briones</strong>, estudiante de <strong>Ingeniería en
   <li>🌐 <strong>Contribuidor de Código Abierto</strong> en proyectos de <strong>Web3</strong> y <strong>Blockchain</strong>.</li>
   <li>💻 En proceso de convertirme en <strong>Desarrollador Blockchain</strong> y <strong>Full Stack Developer</strong>.</li>
   <li>🔒 Apasionado por la <strong>Ciberseguridad</strong> y el <strong>Hacking Ético</strong>.</li>
-  <li>⛩️ Miembro activo de <strong>Dojo Coding</strong>, contribuyendo a proyectos innovadores en Blockchain y Web3.</li>
   <li>🚀 Siempre en búsqueda de nuevos retos tecnológicos y aprendizaje continuo.</li>
 </ul>
 
