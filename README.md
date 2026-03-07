@@ -36,9 +36,6 @@ Soy <strong>Saymon Porras Briones</strong>, estudiante de <strong>Ingeniería en
   <a href="https://www.linkedin.com/in/saymon-porras-briones-933630164/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://app.onlydust.com/u/CtpN3m01" target="blank">
-    <img align="center" src="https://app.onlydust.com/_next/static/media/onlydust-logo.68e14357.webp" alt="Only Dust" height="40" width="40" />
-  </a>
   <a href="https://www.instagram.com/ctpn3m0/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
