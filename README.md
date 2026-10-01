@@ -33,7 +33,6 @@ Soy <strong>Saymon Porras Briones</strong>, estudiante de <strong>Ingeniería en
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/saymon-porras-briones-933630164/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a></td>
-    <td align="center"><a href="https://www.instagram.com/ctpn3m0/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a></td>
     <td align="center"><a href="https://x.com/CtpN3m0" target="blank"><img src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="X/Twitter" height="40" width="40" /></a></td>
     <td align="center"><a href="mailto:CtpN3m0@proton.me" target="blank"><img src="https://w7.pngwing.com/pngs/152/1013/png-transparent-messaging-appl-logo-email-address-electronic-mailing-list-logo-internet-corrugated-tape.png" alt="Mail" height="40" width="40" /></a></td>
     <td align="center"><a href="https://t.me/CtpN3m01" target="blank"><img src="https://cdn.brandfetch.io/id68S6e-Gp/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Telegram" height="40" width="40" /></a></td>
